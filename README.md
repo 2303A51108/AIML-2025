@@ -10,7 +10,7 @@
 
 4. [Lab 04](https://github.com/2303A51108/AIML-2025/blob/main/AIML_A4%20(1).pdf):Introduction to Python Libraries-Numpy
 
-5. [Lab 05]():Introduction to Python Libraries-Numpy
+5. [Lab 05](https://github.com/2303A51108/AIML-2025/blob/main/AIML_A5.pdf):Introduction to Python Libraries-Numpy
 
 6. [Lab 06]():Introduction to Python Libraries-Numpy
 
